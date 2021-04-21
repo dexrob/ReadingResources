@@ -15,7 +15,7 @@
 - [A functional spiking neuronal network for tactile sensing pathway to process edge orientation](resources/A_functional_spiking_neuronal_network_for_tactile_sensing_pathway_to_process_edge_orientation.pdf)
 - [Cuneate spiking neural network learning to classify naturalistic texture stimuli under varying sensing conditions](resources/Cuneate_spiking_neural_network_learning_to_classify_naturalistic_texture_stimuli_under_varying_sensing_conditions.pdf)
 - [Spatial and temporal codes mediate the tactile perception of natural textures](resources/Spatial_and_temporal_codes_mediate_the_tactile_perception_of_natural_textures.pdf)
-### Somatosenosry system
+### Somatosensory system
 - [Neural Basis of Touch and Proprioception in Primate Cortex](resources/Neural_Basis_of_Touch_and_Proprioception_in_Primate_Cortex.pdf)
 - [Membrane potential correlates of sensory perception in mouse barrel cortex](resources/Membrane_potential_correlates_of_sensory_perception_in_mouse_barrel_cortex.pdf)
 - [Sensory and decision-related activity propagate in a cortical feedback loop during touch perception](resources/Sensory_and_decision-related_activity_propagate_in_a_cortical_feedback_loop_during_touch_perception.pdf)

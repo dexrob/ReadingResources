@@ -11,7 +11,7 @@
 - [The Neural Basis of Tactile Texture Perception](resources/The_Neural_Basis_of_Tactile_Texture_Perception.pdf)
 - [Simple Model of Spiking Neurons](resources/Simple_Model_of_Spiking_Neurons.pdf)
 - [Surrogate Gradient Learning in Spiking](resources/Surrogate_Gradient_Learning_in_Spiking.pdf)
-* Mechanoreceptor Encoding
+### Mechanoreceptor Encoding
 - [A functional spiking neuronal network for tactile sensing pathway to process edge orientation](resources/A_functional_spiking_neuronal_network_for_tactile_sensing_pathway_to_process_edge_orientation.pdf)
 - [Cuneate spiking neural network learning to classify naturalistic texture stimuli under varying sensing conditions](resources/Cuneate_spiking_neural_network_learning_to_classify_naturalistic_texture_stimuli_under_varying_sensing_conditions.pdf)
 - [Spatial and temporal codes mediate the tactile perception of natural textures](resources/Spatial_and_temporal_codes_mediate_the_tactile_perception_of_natural_textures.pdf)
